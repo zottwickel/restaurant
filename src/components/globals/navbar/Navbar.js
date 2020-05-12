@@ -3,7 +3,7 @@ import NavbarHeader from './NavbarHeader'
 import NavbarIcons from './NavbarIcons'
 import NavbarLinks from './NavbarLinks'
 import styled from "styled-components"
-import { styles } from '../../../utils'
+
 
 export default class Navbar extends Component {
   constructor(props) {

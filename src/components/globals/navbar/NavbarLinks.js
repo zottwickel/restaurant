@@ -2,7 +2,6 @@ import React, { Component } from "react"
 import { Link } from "gatsby"
 import { styles } from "../../../utils"
 import styled from "styled-components"
-import { transDefault } from "../../../utils/styles"
 
 export default class NavbarLinks extends Component {
   constructor(props) {
